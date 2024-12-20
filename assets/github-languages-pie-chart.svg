@@ -144,16 +144,16 @@
 </style>
 
         <!-- C++ -->
-        <path class="path_1" d="M 60,120 L 60.00000000000001,20 A 100,100 0 1 1 53.09399742855941,219.76125063612253 Z" fill="RosyBrown" stroke="#fff" stroke-width="2"></path>
-        <text class="txt_1" x="260" y="150" fill="RosyBrown" stroke="RosyBrown" stroke-width="1" >C++</text>
+        <path class="path_1" d="M 60,120 L 60.00000000000001,20 A 100,100 0 1 1 53.09399742855941,219.76125063612253 Z" fill="Salmon" stroke="#fff" stroke-width="2"></path>
+        <text class="txt_1" x="260" y="150" fill="Salmon" stroke="Salmon" stroke-width="1" >C++</text>
         
         <!-- Java -->
-        <path class="path_2" d="M 60,120 L 53.09399742855941,219.76125063612253 A 100,100 0 0 1 52.467319447206734,20.284109973938612 Z" fill="Crimson" stroke="#fff" stroke-width="2"></path>
-        <text class="txt_2" x="260" y="170" fill="Crimson" stroke="Crimson" stroke-width="1" >Java</text>
+        <path class="path_2" d="M 60,120 L 53.09399742855941,219.76125063612253 A 100,100 0 0 1 52.467319447206734,20.284109973938612 Z" fill="Tomato" stroke="#fff" stroke-width="2"></path>
+        <text class="txt_2" x="260" y="170" fill="Tomato" stroke="Tomato" stroke-width="1" >Java</text>
         
         <!-- JavaScript -->
-        <path class="path_3" d="M 60,120 L 52.467319447206734,20.284109973938612 A 100,100 0 0 1 59.99999999999998,20 Z" fill="RoyalBlue" stroke="#fff" stroke-width="2"></path>
-        <text class="txt_3" x="260" y="190" fill="RoyalBlue" stroke="RoyalBlue" stroke-width="1" >JavaScript</text>
+        <path class="path_3" d="M 60,120 L 52.467319447206734,20.284109973938612 A 100,100 0 0 1 59.99999999999998,20 Z" fill="LightSeaGreen" stroke="#fff" stroke-width="2"></path>
+        <text class="txt_3" x="260" y="190" fill="LightSeaGreen" stroke="LightSeaGreen" stroke-width="1" >JavaScript</text>
         
     <g class="label"> 
 	    <text x="50" y="80" fill="grey" >Most Used Languages:</text>
