@@ -4,8 +4,8 @@
 
 module.exports = {
 	username: {
-		github: "meugenom",
-		leetcode: "meugenom"
+		github: "23Aditi",
+		leetcode: "ADITI_23_02"
 	},
 	colors : [
 		"Pink",
