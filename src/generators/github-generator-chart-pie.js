@@ -39,8 +39,10 @@ function setInfo(languages){
         //console.log(languages[i]['name'] + " - " + colors[i]);
 
         //calculate percent with 2 digits after comma
-        const percent = Math.round(languages[i]['percentage'] * 100 * 3.6) / 100;
-
+        const percent = languages[i] && languages[i].percentage !== undefined 
+        ? Math.round(languages[i].percentage * 100 * 3.6) / 100
+        : 0; // Use a default value if undefined
+    
         const path = utils.generateSectorPath(60, 120, 100, lastStartAngle, percent + lastStartAngle);
 
         lastStartAngle = lastStartAngle + percent;
