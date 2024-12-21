@@ -144,12 +144,12 @@
 </style>
 
         <!-- C++ -->
-        <path class="path_1" d="M 60,120 L 60.00000000000001,20 A 100,100 0 0 1 68.78511965507434,219.61336091431724 Z" fill="Pink" stroke="#fff" stroke-width="2"></path>
-        <text class="txt_1" x="260" y="150" fill="Pink" stroke="Pink" stroke-width="1" >C++</text>
+        <path class="path_1" d="M 60,120 L 60.00000000000001,20 A 100,100 0 0 1 68.78511965507434,219.61336091431724 Z" fill="Orchid" stroke="#fff" stroke-width="2"></path>
+        <text class="txt_1" x="260" y="150" fill="Orchid" stroke="Orchid" stroke-width="1" >C++</text>
         
         <!-- Java -->
-        <path class="path_2" d="M 60,120 L 68.78511965507434,219.61336091431724 A 100,100 0 0 1 23.187544731532142,27.02235141117488 Z" fill="Tan" stroke="#fff" stroke-width="2"></path>
-        <text class="txt_2" x="260" y="170" fill="Tan" stroke="Tan" stroke-width="1" >Java</text>
+        <path class="path_2" d="M 60,120 L 68.78511965507434,219.61336091431724 A 100,100 0 0 1 23.187544731532142,27.02235141117488 Z" fill="DodgerBlue" stroke="#fff" stroke-width="2"></path>
+        <text class="txt_2" x="260" y="170" fill="DodgerBlue" stroke="DodgerBlue" stroke-width="1" >Java</text>
         
         <!-- JavaScript -->
         <path class="path_3" d="M 60,120 L 23.187544731532142,27.02235141117488 A 100,100 0 0 1 59.99999999999998,20 Z" fill="Coral" stroke="#fff" stroke-width="2"></path>
