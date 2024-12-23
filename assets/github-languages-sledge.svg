@@ -47,20 +47,20 @@
 		<circle cx="20" cy="150" r="45" />
   		<circle cx="20" cy="150" r="25" />
 	</g>
-<g fill="none" stroke-width="20" class="line"><line x2="550" y2="275" x1="20" y1="275" stroke="DarkKhaki" />
-		<line x2="508" y2="255" x1="20" y1="255" stroke="RoyalBlue" />
-		<line x2="137" y2="235" x1="20" y1="235" stroke="Tomato" />
+<g fill="none" stroke-width="20" class="line"><line x2="550" y2="275" x1="20" y1="275" stroke="Orange" />
+		<line x2="507" y2="255" x1="20" y1="255" stroke="Tomato" />
+		<line x2="221" y2="235" x1="20" y1="235" stroke="Pink" />
 		</g>
 	
 	<g fill="none" stroke-width="20" stroke-linecap="round" class="path">
-	<path d="M 20 275 A 125 125 45 0 1 -66 60" stroke="DarkKhaki"/>
-		<path d="M 20 255 A 105 105 45 0 1 -56 78" stroke="RoyalBlue"/>
-		<path d="M 20 235 A 85 85 45 0 1 -63 132" stroke="Tomato"/>
+	<path d="M 20 275 A 125 125 45 0 1 -71 64" stroke="Orange"/>
+		<path d="M 20 255 A 105 105 45 0 1 -60 82" stroke="Tomato"/>
+		<path d="M 20 235 A 85 85 45 0 1 -61 125" stroke="Pink"/>
 		
 	</g>
-	<g class="name"> <text x="560" y="280" fill="DarkKhaki" >C++ (46%)</text>
-		 <text x="518" y="260" fill="RoyalBlue" >Java (42.5%)</text>
-		 <text x="147" y="240" fill="Tomato" >JavaScript (11.5%)</text>
+	<g class="name"> <text x="560" y="280" fill="Orange" >C++ (43%)</text>
+		 <text x="517" y="260" fill="Tomato" >Java (39.7%)</text>
+		 <text x="231" y="240" fill="Pink" >JavaScript (17.3%)</text>
 		</g>
 	
 <g class="label"> 
