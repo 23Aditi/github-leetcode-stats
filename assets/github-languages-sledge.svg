@@ -47,20 +47,20 @@
 		<circle cx="20" cy="150" r="45" />
   		<circle cx="20" cy="150" r="25" />
 	</g>
-<g fill="none" stroke-width="20" class="line"><line x2="550" y2="275" x1="20" y1="275" stroke="IndianRed" />
-		<line x2="513" y2="255" x1="20" y1="255" stroke="Coral" />
-		<line x2="119" y2="235" x1="20" y1="235" stroke="MediumTurquoise" />
+<g fill="none" stroke-width="20" class="line"><line x2="550" y2="275" x1="20" y1="275" stroke="CornflowerBlue" />
+		<line x2="508" y2="255" x1="20" y1="255" stroke="IndianRed" />
+		<line x2="118" y2="235" x1="20" y1="235" stroke="Pink" />
 		</g>
 	
 	<g fill="none" stroke-width="20" stroke-linecap="round" class="path">
-	<path d="M 20 275 A 125 125 45 0 1 -65 58" stroke="IndianRed"/>
-		<path d="M 20 255 A 105 105 45 0 1 -56 78" stroke="Coral"/>
-		<path d="M 20 235 A 85 85 45 0 1 -63 135" stroke="MediumTurquoise"/>
+	<path d="M 20 275 A 125 125 45 0 1 -65 58" stroke="CornflowerBlue"/>
+		<path d="M 20 255 A 105 105 45 0 1 -56 78" stroke="IndianRed"/>
+		<path d="M 20 235 A 85 85 45 0 1 -63 135" stroke="Pink"/>
 		
 	</g>
-	<g class="name"> <text x="560" y="280" fill="IndianRed" >C++ (46.5%)</text>
-		 <text x="523" y="260" fill="Coral" >Java (43.4%)</text>
-		 <text x="129" y="240" fill="MediumTurquoise" >JavaScript (10.1%)</text>
+	<g class="name"> <text x="560" y="280" fill="CornflowerBlue" >C++ (46.7%)</text>
+		 <text x="518" y="260" fill="IndianRed" >Java (43.2%)</text>
+		 <text x="128" y="240" fill="Pink" >JavaScript (10.1%)</text>
 		</g>
 	
 <g class="label"> 
