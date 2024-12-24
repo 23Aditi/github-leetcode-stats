@@ -144,16 +144,16 @@
 </style>
 
         <!-- C++ -->
-        <path class="path_1" d="M 60,120 L 60.00000000000001,20 A 100,100 0 0 1 102.57792915650725,210.48270524660194 Z" fill="Tomato" stroke="#fff" stroke-width="2"></path>
-        <text class="txt_1" x="260" y="150" fill="Tomato" stroke="Tomato" stroke-width="1" >C++</text>
+        <path class="path_1" d="M 60,120 L 60.00000000000001,20 A 100,100 0 0 1 111.98173426207093,205.42774316992953 Z" fill="Crimson" stroke="#fff" stroke-width="2"></path>
+        <text class="txt_1" x="260" y="150" fill="Crimson" stroke="Crimson" stroke-width="1" >C++</text>
         
         <!-- Java -->
-        <path class="path_2" d="M 60,120 L 102.57792915650725,210.48270524660194 A 100,100 0 0 1 -28.5231311332455,73.48489219225414 Z" fill="Salmon" stroke="#fff" stroke-width="2"></path>
+        <path class="path_2" d="M 60,120 L 111.98173426207093,205.42774316992953 A 100,100 0 0 1 -36.202767158608594,92.70480644826748 Z" fill="Salmon" stroke="#fff" stroke-width="2"></path>
         <text class="txt_2" x="260" y="170" fill="Salmon" stroke="Salmon" stroke-width="1" >Java</text>
         
         <!-- JavaScript -->
-        <path class="path_3" d="M 60,120 L -28.5231311332455,73.48489219225414 A 100,100 0 0 1 59.99999999999998,20 Z" fill="MediumTurquoise" stroke="#fff" stroke-width="2"></path>
-        <text class="txt_3" x="260" y="190" fill="MediumTurquoise" stroke="MediumTurquoise" stroke-width="1" >JavaScript</text>
+        <path class="path_3" d="M 60,120 L -36.202767158608594,92.70480644826748 A 100,100 0 0 1 59.99999999999998,20 Z" fill="Tomato" stroke="#fff" stroke-width="2"></path>
+        <text class="txt_3" x="260" y="190" fill="Tomato" stroke="Tomato" stroke-width="1" >JavaScript</text>
         
     <g class="label"> 
 	    <text x="50" y="80" fill="grey" >Most Used Languages:</text>
