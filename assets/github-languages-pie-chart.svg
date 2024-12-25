@@ -144,16 +144,20 @@
 </style>
 
         <!-- C++ -->
-        <path class="path_1" d="M 60,120 L 60.00000000000001,20 A 100,100 0 0 1 111.98173426207093,205.42774316992953 Z" fill="Chocolate" stroke="#fff" stroke-width="2"></path>
-        <text class="txt_1" x="260" y="150" fill="Chocolate" stroke="Chocolate" stroke-width="1" >C++</text>
+        <path class="path_1" d="M 60,120 L 60.00000000000001,20 A 100,100 0 0 1 138.6288432136619,181.78596130903344 Z" fill="LightSeaGreen" stroke="#fff" stroke-width="2"></path>
+        <text class="txt_1" x="260" y="150" fill="LightSeaGreen" stroke="LightSeaGreen" stroke-width="1" >C++</text>
         
         <!-- Java -->
-        <path class="path_2" d="M 60,120 L 111.98173426207093,205.42774316992953 A 100,100 0 0 1 -36.202767158608594,92.70480644826748 Z" fill="RosyBrown" stroke="#fff" stroke-width="2"></path>
-        <text class="txt_2" x="260" y="170" fill="RosyBrown" stroke="RosyBrown" stroke-width="1" >Java</text>
+        <path class="path_2" d="M 60,120 L 138.6288432136619,181.78596130903344 A 100,100 0 0 1 -31.775462568398098,159.71478906347812 Z" fill="DodgerBlue" stroke="#fff" stroke-width="2"></path>
+        <text class="txt_2" x="260" y="170" fill="DodgerBlue" stroke="DodgerBlue" stroke-width="1" >Java</text>
         
         <!-- JavaScript -->
-        <path class="path_3" d="M 60,120 L -36.202767158608594,92.70480644826748 A 100,100 0 0 1 59.99999999999998,20 Z" fill="DodgerBlue" stroke="#fff" stroke-width="2"></path>
-        <text class="txt_3" x="260" y="190" fill="DodgerBlue" stroke="DodgerBlue" stroke-width="1" >JavaScript</text>
+        <path class="path_3" d="M 60,120 L -31.775462568398098,159.71478906347812 A 100,100 0 0 1 10.727265845170834,32.98162453304744 Z" fill="DarkKhaki" stroke="#fff" stroke-width="2"></path>
+        <text class="txt_3" x="260" y="190" fill="DarkKhaki" stroke="DarkKhaki" stroke-width="1" >JavaScript</text>
+        
+        <!-- HTML -->
+        <path class="path_4" d="M 60,120 L 10.727265845170834,32.98162453304744 A 100,100 0 0 1 59.37168560344421,20.001973914386284 Z" fill="MediumSlateBlue" stroke="#fff" stroke-width="2"></path>
+        <text class="txt_4" x="260" y="210" fill="MediumSlateBlue" stroke="MediumSlateBlue" stroke-width="1" >HTML</text>
         
     <g class="label"> 
 	    <text x="50" y="80" fill="grey" >Most Used Languages:</text>
