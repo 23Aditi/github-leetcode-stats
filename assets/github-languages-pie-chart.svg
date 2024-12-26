@@ -144,20 +144,20 @@
 </style>
 
         <!-- C++ -->
-        <path class="path_1" d="M 60,120 L 60.00000000000001,20 A 100,100 0 0 1 151.2691587403503,160.8649074736349 Z" fill="RoyalBlue" stroke="#fff" stroke-width="2"></path>
-        <text class="txt_1" x="260" y="150" fill="RoyalBlue" stroke="RoyalBlue" stroke-width="1" >C++</text>
+        <path class="path_1" d="M 60,120 L 60.00000000000001,20 A 100,100 0 0 1 151.2691587403503,160.8649074736349 Z" fill="Tan" stroke="#fff" stroke-width="2"></path>
+        <text class="txt_1" x="260" y="150" fill="Tan" stroke="Tan" stroke-width="1" >C++</text>
         
         <!-- JavaScript -->
         <path class="path_2" d="M 60,120 L 151.2691587403503,160.8649074736349 A 100,100 0 0 1 -12.896862742141167,188.45471059286885 Z" fill="Orange" stroke="#fff" stroke-width="2"></path>
         <text class="txt_2" x="260" y="170" fill="Orange" stroke="Orange" stroke-width="1" >JavaScript</text>
         
         <!-- Java -->
-        <path class="path_3" d="M 60,120 L -12.896862742141167,188.45471059286885 A 100,100 0 0 1 13.484892192254222,31.476868866754458 Z" fill="Tan" stroke="#fff" stroke-width="2"></path>
-        <text class="txt_3" x="260" y="190" fill="Tan" stroke="Tan" stroke-width="1" >Java</text>
+        <path class="path_3" d="M 60,120 L -12.896862742141167,188.45471059286885 A 100,100 0 0 1 13.484892192254222,31.476868866754458 Z" fill="LightSeaGreen" stroke="#fff" stroke-width="2"></path>
+        <text class="txt_3" x="260" y="190" fill="LightSeaGreen" stroke="LightSeaGreen" stroke-width="1" >Java</text>
         
         <!-- HTML -->
-        <path class="path_4" d="M 60,120 L 13.484892192254222,31.476868866754458 A 100,100 0 0 1 58.7433960116648,20.007895579618392 Z" fill="MediumAquaMarine" stroke="#fff" stroke-width="2"></path>
-        <text class="txt_4" x="260" y="210" fill="MediumAquaMarine" stroke="MediumAquaMarine" stroke-width="1" >HTML</text>
+        <path class="path_4" d="M 60,120 L 13.484892192254222,31.476868866754458 A 100,100 0 0 1 58.7433960116648,20.007895579618392 Z" fill="Coral" stroke="#fff" stroke-width="2"></path>
+        <text class="txt_4" x="260" y="210" fill="Coral" stroke="Coral" stroke-width="1" >HTML</text>
         
         <!-- CSS -->
         <path class="path_5" d="M 60,120 L 58.7433960116648,20.007895579618392 A 100,100 0 0 1 60.62831439655593,20.001973914386284 Z" fill="SteelBlue" stroke="#fff" stroke-width="2"></path>
