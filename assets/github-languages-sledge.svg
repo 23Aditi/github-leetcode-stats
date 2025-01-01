@@ -47,25 +47,25 @@
 		<circle cx="20" cy="150" r="45" />
   		<circle cx="20" cy="150" r="25" />
 	</g>
-<g fill="none" stroke-width="20" class="line"><line x2="550" y2="275" x1="20" y1="275" stroke="Pink" />
-		<line x2="462" y2="255" x1="20" y1="255" stroke="Chocolate" />
-		<line x2="423" y2="235" x1="20" y1="235" stroke="MediumAquaMarine" />
-		<line x2="121" y2="215" x1="20" y1="215" stroke="MediumTurquoise" />
+<g fill="none" stroke-width="20" class="line"><line x2="550" y2="275" x1="20" y1="275" stroke="IndianRed" />
+		<line x2="462" y2="255" x1="20" y1="255" stroke="Tan" />
+		<line x2="423" y2="235" x1="20" y1="235" stroke="MediumSlateBlue" />
+		<line x2="121" y2="215" x1="20" y1="215" stroke="Orchid" />
 		<line x2="4" y2="195" x1="20" y1="195" stroke="SteelBlue" />
 		</g>
 	
 	<g fill="none" stroke-width="20" stroke-linecap="round" class="path">
-	<path d="M 20 275 A 125 125 45 0 1 -82 78" stroke="Pink"/>
-		<path d="M 20 255 A 105 105 45 0 1 -70 97" stroke="Chocolate"/>
-		<path d="M 20 235 A 85 85 45 0 1 -55 111" stroke="MediumAquaMarine"/>
-		<path d="M 20 215 A 65 65 45 0 1 -44 140" stroke="MediumTurquoise"/>
+	<path d="M 20 275 A 125 125 45 0 1 -82 78" stroke="IndianRed"/>
+		<path d="M 20 255 A 105 105 45 0 1 -70 97" stroke="Tan"/>
+		<path d="M 20 235 A 85 85 45 0 1 -55 111" stroke="MediumSlateBlue"/>
+		<path d="M 20 215 A 65 65 45 0 1 -44 140" stroke="Orchid"/>
 		<path d="M 20 195 A 45 45 45 0 1 -25 150" stroke="SteelBlue"/>
 		
 	</g>
-	<g class="name"> <text x="560" y="280" fill="Pink" >JavaScript (35.2%)</text>
-		 <text x="472" y="260" fill="Chocolate" >C++ (29.6%)</text>
-		 <text x="433" y="240" fill="MediumAquaMarine" >Java (27.1%)</text>
-		 <text x="131" y="220" fill="MediumTurquoise" >HTML (7.8%)</text>
+	<g class="name"> <text x="560" y="280" fill="IndianRed" >JavaScript (35.2%)</text>
+		 <text x="472" y="260" fill="Tan" >C++ (29.6%)</text>
+		 <text x="433" y="240" fill="MediumSlateBlue" >Java (27.1%)</text>
+		 <text x="131" y="220" fill="Orchid" >HTML (7.8%)</text>
 		 <text x="14" y="200" fill="SteelBlue" >CSS (0.3%)</text>
 		</g>
 	
