@@ -47,29 +47,29 @@
 		<circle cx="20" cy="150" r="45" />
   		<circle cx="20" cy="150" r="25" />
 	</g>
-<g fill="none" stroke-width="20" class="line"><line x2="550" y2="275" x1="20" y1="275" stroke="Tan" />
-		<line x2="428" y2="255" x1="20" y1="255" stroke="RoyalBlue" />
-		<line x2="250" y2="235" x1="20" y1="235" stroke="Orange" />
-		<line x2="246" y2="215" x1="20" y1="215" stroke="RosyBrown" />
-		<line x2="133" y2="195" x1="20" y1="195" stroke="DodgerBlue" />
-		<line x2="46" y2="175" x1="20" y1="175" stroke="Gold" />
+<g fill="none" stroke-width="20" class="line"><line x2="550" y2="275" x1="20" y1="275" stroke="MediumTurquoise" />
+		<line x2="428" y2="255" x1="20" y1="255" stroke="Pink" />
+		<line x2="250" y2="235" x1="20" y1="235" stroke="RoyalBlue" />
+		<line x2="246" y2="215" x1="20" y1="215" stroke="Gold" />
+		<line x2="133" y2="195" x1="20" y1="195" stroke="Chocolate" />
+		<line x2="46" y2="175" x1="20" y1="175" stroke="Coral" />
 		</g>
 	
 	<g fill="none" stroke-width="20" stroke-linecap="round" class="path">
-	<path d="M 20 275 A 125 125 45 0 1 -84 81" stroke="Tan"/>
-		<path d="M 20 255 A 105 105 45 0 1 -74 103" stroke="RoyalBlue"/>
-		<path d="M 20 235 A 85 85 45 0 1 -62 128" stroke="Orange"/>
-		<path d="M 20 215 A 65 65 45 0 1 -42 133" stroke="RosyBrown"/>
-		<path d="M 20 195 A 45 45 45 0 1 -24 143" stroke="DodgerBlue"/>
-		<path d="M 20 175 A 25 25 45 0 1 -4 148" stroke="Gold"/>
+	<path d="M 20 275 A 125 125 45 0 1 -84 81" stroke="MediumTurquoise"/>
+		<path d="M 20 255 A 105 105 45 0 1 -74 103" stroke="Pink"/>
+		<path d="M 20 235 A 85 85 45 0 1 -62 128" stroke="RoyalBlue"/>
+		<path d="M 20 215 A 65 65 45 0 1 -42 133" stroke="Gold"/>
+		<path d="M 20 195 A 45 45 45 0 1 -24 143" stroke="Chocolate"/>
+		<path d="M 20 175 A 25 25 45 0 1 -4 148" stroke="Coral"/>
 		
 	</g>
-	<g class="name"> <text x="560" y="280" fill="Tan" >C++ (33%)</text>
-		 <text x="438" y="260" fill="RoyalBlue" >JavaScript (25.7%)</text>
-		 <text x="260" y="240" fill="Orange" >Jupyter Notebook (15%)</text>
-		 <text x="256" y="220" fill="RosyBrown" >Java (14.8%)</text>
-		 <text x="143" y="200" fill="DodgerBlue" >HTML (8%)</text>
-		 <text x="56" y="180" fill="Gold" >TypeScript (2.8%)</text>
+	<g class="name"> <text x="560" y="280" fill="MediumTurquoise" >C++ (33%)</text>
+		 <text x="438" y="260" fill="Pink" >JavaScript (25.7%)</text>
+		 <text x="260" y="240" fill="RoyalBlue" >Jupyter Notebook (15%)</text>
+		 <text x="256" y="220" fill="Gold" >Java (14.8%)</text>
+		 <text x="143" y="200" fill="Chocolate" >HTML (8%)</text>
+		 <text x="56" y="180" fill="Coral" >TypeScript (2.8%)</text>
 		</g>
 	
 <g class="label"> 
