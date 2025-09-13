@@ -48,28 +48,28 @@
   		<circle cx="20" cy="150" r="25" />
 	</g>
 <g fill="none" stroke-width="20" class="line"><line x2="550" y2="275" x1="20" y1="275" stroke="Salmon" />
-		<line x2="457" y2="255" x1="20" y1="255" stroke="Coral" />
-		<line x2="427" y2="235" x1="20" y1="235" stroke="RoyalBlue" />
-		<line x2="249" y2="215" x1="20" y1="215" stroke="DodgerBlue" />
-		<line x2="244" y2="195" x1="20" y1="195" stroke="MediumSlateBlue" />
-		<line x2="133" y2="175" x1="20" y1="175" stroke="Orchid" />
+		<line x2="457" y2="255" x1="20" y1="255" stroke="IndianRed" />
+		<line x2="427" y2="235" x1="20" y1="235" stroke="CornflowerBlue" />
+		<line x2="249" y2="215" x1="20" y1="215" stroke="Crimson" />
+		<line x2="244" y2="195" x1="20" y1="195" stroke="SteelBlue" />
+		<line x2="133" y2="175" x1="20" y1="175" stroke="Chocolate" />
 		</g>
 	
 	<g fill="none" stroke-width="20" stroke-linecap="round" class="path">
 	<path d="M 20 275 A 125 125 45 0 1 -92 95" stroke="Salmon"/>
-		<path d="M 20 255 A 105 105 45 0 1 -78 112" stroke="Coral"/>
-		<path d="M 20 235 A 85 85 45 0 1 -59 120" stroke="RoyalBlue"/>
-		<path d="M 20 215 A 65 65 45 0 1 -43 136" stroke="DodgerBlue"/>
-		<path d="M 20 195 A 45 45 45 0 1 -24 141" stroke="MediumSlateBlue"/>
-		<path d="M 20 175 A 25 25 45 0 1 -4 147" stroke="Orchid"/>
+		<path d="M 20 255 A 105 105 45 0 1 -78 112" stroke="IndianRed"/>
+		<path d="M 20 235 A 85 85 45 0 1 -59 120" stroke="CornflowerBlue"/>
+		<path d="M 20 215 A 65 65 45 0 1 -43 136" stroke="Crimson"/>
+		<path d="M 20 195 A 45 45 45 0 1 -24 141" stroke="SteelBlue"/>
+		<path d="M 20 175 A 25 25 45 0 1 -4 147" stroke="Chocolate"/>
 		
 	</g>
 	<g class="name"> <text x="560" y="280" fill="Salmon" >C++ (25.6%)</text>
-		 <text x="467" y="260" fill="Coral" >Python (21.3%)</text>
-		 <text x="437" y="240" fill="RoyalBlue" >JavaScript (19.9%)</text>
-		 <text x="259" y="220" fill="DodgerBlue" >Jupyter Notebook (11.6%)</text>
-		 <text x="254" y="200" fill="MediumSlateBlue" >Java (11.4%)</text>
-		 <text x="143" y="180" fill="Orchid" >HTML (6.2%)</text>
+		 <text x="467" y="260" fill="IndianRed" >Python (21.3%)</text>
+		 <text x="437" y="240" fill="CornflowerBlue" >JavaScript (19.9%)</text>
+		 <text x="259" y="220" fill="Crimson" >Jupyter Notebook (11.6%)</text>
+		 <text x="254" y="200" fill="SteelBlue" >Java (11.4%)</text>
+		 <text x="143" y="180" fill="Chocolate" >HTML (6.2%)</text>
 		</g>
 	
 <g class="label"> 
