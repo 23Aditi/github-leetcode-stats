@@ -58,7 +58,7 @@
 </g>
 
 	<g fill="none" stroke-width="20" class="line">
-		<line x1="180" y1="120" x2="234" y2="120"  stroke="#7BC8A4" />
+		<line x1="180" y1="120" x2="235" y2="120"  stroke="#7BC8A4" />
 		<line x1="180" y1="190" x2="205" y2="190" stroke="#FFC65D" />
 		<line x1="180" y1="260" x2="183" y2="260" stroke="#F16745" />
 	</g>
@@ -72,7 +72,7 @@
 	
 	 <g class="name">
 		<text x="180" y="100" fill="#7BC8A4" >Easy</text>
-		<text x="240" y="100" fill="#404040">135</text>
+		<text x="240" y="100" fill="#404040">136</text>
 		<text x="270" y="100" fill="#ABABA1">/913</text>
 		<text x="430" y="100" fill="#989894">Beats 94.2%</text>
 
@@ -87,7 +87,7 @@
 		<text x="430" y="240" fill="#989894">Beats 60.4%</text>
 	</g>
 	<g> 
-		<text x="-20" y="165" fill="#404040" class="totalSum" >276</text>
+		<text x="-20" y="165" fill="#404040" class="totalSum" >277</text>
 		<text x="-10" y="200" fill="#8A8883" class="totalSumLabel" >Solved</text>
 	</g>
 <g class="label"> 
